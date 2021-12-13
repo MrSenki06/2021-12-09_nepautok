@@ -2,10 +2,22 @@ body{
 	text-align: justify;
 }
 
+a :hover{
+	color: chocolate;
+}
+a :default{
+	text-decoration: none;
+	color: darkgray;
+	background-color: lightgray;
+}
+
 #container {
 	padding: 20px;
 	border-radius: 5px;
 	box-shadow: 0px 5px 15px grey;
+	width: 700px;
+    margin: 50px;
+
 }
 
 .left {
@@ -17,3 +29,4 @@ body{
 	float: right;
 	margin-bottom: 10px;
 }
+
