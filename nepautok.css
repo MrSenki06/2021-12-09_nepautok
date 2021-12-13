@@ -2,9 +2,6 @@ body{
 	text-align: justify;
 }
 
-a :hover{
-	color: chocolate;
-}
 a {
 	text-decoration: none;
 	color: darkgray;
@@ -29,4 +26,6 @@ a {
 	float: right;
 	margin-bottom: 10px;
 }
-
+ h2{
+	 border-top: 1px solid;
+ }
