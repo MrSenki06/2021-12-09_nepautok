@@ -5,7 +5,7 @@ body{
 a :hover{
 	color: chocolate;
 }
-a :default{
+a {
 	text-decoration: none;
 	color: darkgray;
 	background-color: lightgray;
@@ -15,7 +15,7 @@ a :default{
 	padding: 20px;
 	border-radius: 5px;
 	box-shadow: 0px 5px 15px grey;
-	width: 700px;
+	width: 700px 0px;
     margin: 50px;
 
 }
